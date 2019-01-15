@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AR Moon
 //
-//  Created by Ray Berry on 15/01/2019.
+//  Created by James and Ray Berry on 02/04/2018.
 //  Copyright © 2019 JARBerry. All rights reserved.
 //
 
